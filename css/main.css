@@ -108,6 +108,19 @@ img {
 	background-position: center;
 	-webkit-background-size: cover;
 	background-size: cover;
+	font-family: roboto;
 }
-
+.last-header {
+	color: white;
+	font-size: 20px;
+	padding: 10px 20px;
+	border: 1px solid white;
+	margin-bottom: 48px;
+}
+.last-text {
+	color: white;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 1.5;
+	letter-spacing: 1px;
 }
